@@ -9,4 +9,4 @@ n = int(input("Enter a number: "))
 result = largest_square(n)
 print(f"The largest square less than or equal to {n} is {result}")
 
-# it looks like I learned how to use git today
+# it looks like I learned how to use git today 
