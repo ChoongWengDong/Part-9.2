@@ -39,4 +39,3 @@ print(f"Minimum: {minimum}")
 print(f"Mean: {mean}")
 
 # it looks like I learned how to use git today
-
